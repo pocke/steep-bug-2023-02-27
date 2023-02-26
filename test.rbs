@@ -1,0 +1,11 @@
+module M
+  module M
+    def foo: () -> void
+    def bar: () -> void
+  end
+
+  module M2
+    def foo: () -> void
+    def bar: () -> void
+  end
+end
